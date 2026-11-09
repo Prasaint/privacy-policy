@@ -1,7 +1,11 @@
 # privacy-policy
 # Privacy Policy – WiFi Tools: Scan & Speed Test
 
-**App name:** WiFi Tools: Scan & Speed Test **Package name:** com.pklabs.wifitools **Effective date:** November 9, 2026 **Developer:** Prashant Khadka **Contact:** prashantkhadkapass@gmail.com
+**App name:** WiFi Tools: Scan & Speed Test
+**Package name:** com.pklabs.wifitools 
+**Effective date:** November 9, 2026 
+**Developer:** Prashant Khadka 
+**Contact:** prashantkhadkapass@gmail.com
 
 ## 1. Introduction
 
